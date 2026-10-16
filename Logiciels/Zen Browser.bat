@@ -65,7 +65,6 @@ CLS
 
 title %Logiciel% - Installation automatique
 
-echo Create by Mathys M - https://www.karde.me/mathysm
 echo.
 echo.
 echo       ██╗███╗   ██╗███████╗████████╗ █████╗ ██╗     ██╗     
